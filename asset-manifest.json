@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://samparsky.github.io/adex-staking/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "https://samparsky.github.io/adex-staking/static/js/main.87662d7b.chunk.js",
-    "main.js.map": "https://samparsky.github.io/adex-staking/static/js/main.87662d7b.chunk.js.map",
+    "main.js": "https://samparsky.github.io/adex-staking/static/js/main.d9d26d93.chunk.js",
+    "main.js.map": "https://samparsky.github.io/adex-staking/static/js/main.d9d26d93.chunk.js.map",
     "runtime-main.js": "https://samparsky.github.io/adex-staking/static/js/runtime-main.cb347714.js",
     "runtime-main.js.map": "https://samparsky.github.io/adex-staking/static/js/runtime-main.cb347714.js.map",
     "static/js/2.d6a48f28.chunk.js": "https://samparsky.github.io/adex-staking/static/js/2.d6a48f28.chunk.js",
     "static/js/2.d6a48f28.chunk.js.map": "https://samparsky.github.io/adex-staking/static/js/2.d6a48f28.chunk.js.map",
     "index.html": "https://samparsky.github.io/adex-staking/index.html",
-    "precache-manifest.1c75aff40b49fb55efaba2b5a430a75a.js": "https://samparsky.github.io/adex-staking/precache-manifest.1c75aff40b49fb55efaba2b5a430a75a.js",
+    "precache-manifest.7a6ba99e4a623fcf4f8b0103d0c0bcf5.js": "https://samparsky.github.io/adex-staking/precache-manifest.7a6ba99e4a623fcf4f8b0103d0c0bcf5.js",
     "service-worker.js": "https://samparsky.github.io/adex-staking/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "https://samparsky.github.io/adex-staking/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.d6a48f28.chunk.js.LICENSE": "https://samparsky.github.io/adex-staking/static/js/2.d6a48f28.chunk.js.LICENSE",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.cb347714.js",
     "static/js/2.d6a48f28.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.87662d7b.chunk.js"
+    "static/js/main.d9d26d93.chunk.js"
   ]
 }
