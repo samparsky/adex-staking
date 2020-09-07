@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cb735b308f680825be4772ea29ad12d",
+    "revision": "fecb8eb88c061a268828adba333f92ca",
     "url": "https://samparsky.github.io/adex-staking/index.html"
   },
   {
-    "revision": "82c38ed77d498eb82272",
+    "revision": "479180e37dc536450c88",
     "url": "https://samparsky.github.io/adex-staking/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://samparsky.github.io/adex-staking/static/js/2.d6a48f28.chunk.js.LICENSE"
   },
   {
-    "revision": "82c38ed77d498eb82272",
-    "url": "https://samparsky.github.io/adex-staking/static/js/main.3a2cd00e.chunk.js"
+    "revision": "479180e37dc536450c88",
+    "url": "https://samparsky.github.io/adex-staking/static/js/main.1fa5fadf.chunk.js"
   },
   {
     "revision": "14c5b2601d1b6f3e007d",
