@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://samparsky.github.io/adex-staking/precache-manifest.ebfee6fc5926cdc255ccde9546d6aa2a.js"
+  "https://samparsky.github.io/adex-staking/precache-manifest.8e6d3c2afdf95af13ff79d6b6b5c045e.js"
 );
 
 self.addEventListener('message', (event) => {

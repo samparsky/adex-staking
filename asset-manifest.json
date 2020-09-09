@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://samparsky.github.io/adex-staking/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "https://samparsky.github.io/adex-staking/static/js/main.85898c65.chunk.js",
-    "main.js.map": "https://samparsky.github.io/adex-staking/static/js/main.85898c65.chunk.js.map",
+    "main.js": "https://samparsky.github.io/adex-staking/static/js/main.6b4d142a.chunk.js",
+    "main.js.map": "https://samparsky.github.io/adex-staking/static/js/main.6b4d142a.chunk.js.map",
     "runtime-main.js": "https://samparsky.github.io/adex-staking/static/js/runtime-main.f7cfb641.js",
     "runtime-main.js.map": "https://samparsky.github.io/adex-staking/static/js/runtime-main.f7cfb641.js.map",
     "static/js/2.2ce15a83.chunk.js": "https://samparsky.github.io/adex-staking/static/js/2.2ce15a83.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/4.83063c8a.chunk.js": "https://samparsky.github.io/adex-staking/static/js/4.83063c8a.chunk.js",
     "static/js/4.83063c8a.chunk.js.map": "https://samparsky.github.io/adex-staking/static/js/4.83063c8a.chunk.js.map",
     "index.html": "https://samparsky.github.io/adex-staking/index.html",
-    "precache-manifest.ebfee6fc5926cdc255ccde9546d6aa2a.js": "https://samparsky.github.io/adex-staking/precache-manifest.ebfee6fc5926cdc255ccde9546d6aa2a.js",
+    "precache-manifest.8e6d3c2afdf95af13ff79d6b6b5c045e.js": "https://samparsky.github.io/adex-staking/precache-manifest.8e6d3c2afdf95af13ff79d6b6b5c045e.js",
     "service-worker.js": "https://samparsky.github.io/adex-staking/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "https://samparsky.github.io/adex-staking/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.2ce15a83.chunk.js.LICENSE": "https://samparsky.github.io/adex-staking/static/js/2.2ce15a83.chunk.js.LICENSE",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.f7cfb641.js",
     "static/js/2.2ce15a83.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.85898c65.chunk.js"
+    "static/js/main.6b4d142a.chunk.js"
   ]
 }
