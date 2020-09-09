@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "https://samparsky.github.io/adex-staking/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "https://samparsky.github.io/adex-staking/static/js/main.1fef9de4.chunk.js",
-    "main.js.map": "https://samparsky.github.io/adex-staking/static/js/main.1fef9de4.chunk.js.map",
-    "runtime-main.js": "https://samparsky.github.io/adex-staking/static/js/runtime-main.2ce89fce.js",
-    "runtime-main.js.map": "https://samparsky.github.io/adex-staking/static/js/runtime-main.2ce89fce.js.map",
-    "static/js/2.a68bea6e.chunk.js": "https://samparsky.github.io/adex-staking/static/js/2.a68bea6e.chunk.js",
-    "static/js/2.a68bea6e.chunk.js.map": "https://samparsky.github.io/adex-staking/static/js/2.a68bea6e.chunk.js.map",
-    "static/js/3.20bc7a54.chunk.js": "https://samparsky.github.io/adex-staking/static/js/3.20bc7a54.chunk.js",
-    "static/js/3.20bc7a54.chunk.js.map": "https://samparsky.github.io/adex-staking/static/js/3.20bc7a54.chunk.js.map",
+    "main.js": "https://samparsky.github.io/adex-staking/static/js/main.b2f30c9e.chunk.js",
+    "main.js.map": "https://samparsky.github.io/adex-staking/static/js/main.b2f30c9e.chunk.js.map",
+    "runtime-main.js": "https://samparsky.github.io/adex-staking/static/js/runtime-main.f7cfb641.js",
+    "runtime-main.js.map": "https://samparsky.github.io/adex-staking/static/js/runtime-main.f7cfb641.js.map",
+    "static/js/2.2ce15a83.chunk.js": "https://samparsky.github.io/adex-staking/static/js/2.2ce15a83.chunk.js",
+    "static/js/2.2ce15a83.chunk.js.map": "https://samparsky.github.io/adex-staking/static/js/2.2ce15a83.chunk.js.map",
+    "static/js/3.a44e255e.chunk.js": "https://samparsky.github.io/adex-staking/static/js/3.a44e255e.chunk.js",
+    "static/js/3.a44e255e.chunk.js.map": "https://samparsky.github.io/adex-staking/static/js/3.a44e255e.chunk.js.map",
     "static/js/4.83063c8a.chunk.js": "https://samparsky.github.io/adex-staking/static/js/4.83063c8a.chunk.js",
     "static/js/4.83063c8a.chunk.js.map": "https://samparsky.github.io/adex-staking/static/js/4.83063c8a.chunk.js.map",
     "index.html": "https://samparsky.github.io/adex-staking/index.html",
-    "precache-manifest.f39409c7fc3ccd775298488cd757827c.js": "https://samparsky.github.io/adex-staking/precache-manifest.f39409c7fc3ccd775298488cd757827c.js",
+    "precache-manifest.9f7447bbe6ae6f069ae78d2a3c9831b1.js": "https://samparsky.github.io/adex-staking/precache-manifest.9f7447bbe6ae6f069ae78d2a3c9831b1.js",
     "service-worker.js": "https://samparsky.github.io/adex-staking/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "https://samparsky.github.io/adex-staking/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.a68bea6e.chunk.js.LICENSE": "https://samparsky.github.io/adex-staking/static/js/2.a68bea6e.chunk.js.LICENSE",
-    "static/js/3.20bc7a54.chunk.js.LICENSE": "https://samparsky.github.io/adex-staking/static/js/3.20bc7a54.chunk.js.LICENSE",
+    "static/js/2.2ce15a83.chunk.js.LICENSE": "https://samparsky.github.io/adex-staking/static/js/2.2ce15a83.chunk.js.LICENSE",
+    "static/js/3.a44e255e.chunk.js.LICENSE": "https://samparsky.github.io/adex-staking/static/js/3.a44e255e.chunk.js.LICENSE",
     "static/media/adex-staking.svg": "https://samparsky.github.io/adex-staking/static/media/adex-staking.bf64bad2.svg",
     "static/media/metamask-fox.svg": "https://samparsky.github.io/adex-staking/static/media/metamask-fox.c879a582.svg",
     "static/media/trezor.svg": "https://samparsky.github.io/adex-staking/static/media/trezor.97e30ed8.svg",
     "static/media/walletconnect-logo.svg": "https://samparsky.github.io/adex-staking/static/media/walletconnect-logo.37f2bc6e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ce89fce.js",
-    "static/js/2.a68bea6e.chunk.js",
+    "static/js/runtime-main.f7cfb641.js",
+    "static/js/2.2ce15a83.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.1fef9de4.chunk.js"
+    "static/js/main.b2f30c9e.chunk.js"
   ]
 }
